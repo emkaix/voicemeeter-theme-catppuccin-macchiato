@@ -2,6 +2,8 @@
 ### (currently only Banana)
 ![UI](banana.png)
 
+Voicemeeter theme that uses the [Catppuccin Macchiato](https://github.com/catppuccin/catppuccin) color palette.
+
 ## Usage
 
 This theme is meant to be used with the [voicemeeter-themes](https://github.com/emkaix/voicemeeter-themes) mod.
