@@ -5,8 +5,8 @@
       "comment": "R outline (inactive), system settings A1 SR/buf background, audio qos statistics background (click on A1 SR in system settings), output device selection window current selection, stuff in VBAN option and MIDI mapping windows"
     },
     "#CC2814": {
-      "value": "",
-      "comment": "??"
+      "value": "#ed8796",
+      "comment": "cassette background when recording"
     },
     "#FC3C1E": {
       "value": "",
