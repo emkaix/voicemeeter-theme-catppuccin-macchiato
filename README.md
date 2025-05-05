@@ -15,6 +15,7 @@ This theme is meant to be used with [voicemeeter-themes-mod](https://github.com/
 ```
 C:\Users\<USER>\Documents\Voicemeeter\theme.json
 C:\Users\<USER>\Documents\Voicemeeter\themes\banana\catppucchin_macchiato\bg.bmp
+C:\Users\<USER>\Documents\Voicemeeter\themes\banana\catppucchin_macchiato\bg_settings.bmp
 C:\Users\<USER>\Documents\Voicemeeter\themes\banana\catppucchin_macchiato\colors.json
 ```
 4. Launch Voicemeeter with [voicemeeter-themes-mod](https://github.com/emkaix/voicemeeter-themes-mod) launcher.
