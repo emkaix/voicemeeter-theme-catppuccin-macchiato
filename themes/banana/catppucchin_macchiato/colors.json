@@ -77,8 +77,8 @@
       "comment": "cassette path/file bg"
     },
     "#C83232": {
-      "value": "",
-      "comment": "??"
+      "value": "#ed8796",
+      "comment": "cassette background when recording"
     },
     "#3C3C00": {
       "value": "#292c3c",
