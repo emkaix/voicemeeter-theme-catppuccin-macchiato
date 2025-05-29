@@ -1,0 +1,50 @@
+shapes:
+  "#000000": ""  # R outline (inactive), system settings A1 SR/buf background, audio qos statistics background (click on A1 SR in system settings), output device selection window current selection, stuff in VBAN option and MIDI mapping windows
+  "#CC2814": "#ed8796"  # cassette background when recording
+  "#FC3C1E": ""  # ??
+  "#F0EB36": ""  # ??
+  "#061C9D": ""  # ??
+  "#0F5FE2": ""  # ??
+  "#8C93E4": ""  # ??
+  "#036B7A": ""  # ??
+  "#404040": ""  # ??
+  "#828282": ""  # two lines in audio qos window (system settings, click on A1 SR)
+  "#B4B4B4": ""  # device selection background for 3 buttons bottom left and some lines
+  "#E6E6E6": ""  # device selection partial background
+  "#36495A": "#292c3c"  # some lines at the top around inputs, sample rate, comp/gate, divisors in EQ and graph
+  "#FFFFFF": ""  # device selection partial background, ?,_,X buttons outer line
+  "#2C3D4D": "#232634"  # most of the visible lines in main UI, system settings
+  "#122029": "#232634"  # EQ background, system settings patch composite background
+  "#70C399": ""  # ?
+  "#F8634D": "#f4dbd6"  # line around "input" of cassette, intellipan knobs (active)
+  "#DCDCC8": "#939ab7"  # cassette path/file bg
+  "#C83232": "#ed8796"  # cassette background when recording
+  "#3C3C00": "#292c3c"  # brick limiter area
+  "#FFFF1E": "#eed49f"  # bottom line of brick limiter
+  "#5F707C": "#939ab7"  # vban top right
+  "#6F8CA0": "#939ab7"  # line around default position of intellipan square and "startup" outline
+  "#68E6FA": "#f4dbd6"  # remote app active (top)
+  "#545454": "#6e738d"  # cassette play time bg
+  "#6E6E6E": "#6e738d"  # cassette line around play time
+  "#24A731": "#a6da95"  # cassette bar when file played
+text:
+  "#b7bdf8": ""  # ??
+  "#68e6fa": "#f4dbd6"  # remote app "R"
+  "#969696": "#cad3f5"  # x64 logo and EQ labels
+  "#718ca2": "#cad3f5"  # input custom name
+  "#B4B4B4": "#939ab7"  # input device label
+  "#6f8ca0": "#939ab7"  # "select input device", comp, gate, comp/gate knob value (off), current db outputs, equalizer labels, hardware out sample rate, basically everything in system settings
+  "#828282": "#939ab7"  # khz and sample rate underneath input
+  "#e6e6e6": "#f4dbd6"  # "engine start" text, system settings input labels
+  "#286442": "#292c3c"  # fader custom labels
+  "#ffffff": "#cad3f5"  # fader db labels, system settings sample rates
+  "#c8c800": "#eed49f"  # db brick limiter label
+  "#70c399": "#f4dbd6"  # comp/gate knob value (on)
+  "#646464": "#292c3c"  # cassette loaded file path
+  "#f8634d": "#f4dbd6"  # cassette "input"
+  "#c8c8c8": "#cad3f5"  # cassette inner timer, EQ values
+  "#8c9ba0": "#939ab7"  # VBAN label top right
+  "#9f9f9f": ""  # default xml file name in main menu
+  "#ffffc8": "#f4dbd6"  # contextual help top
+  "#e6e6be": "#cad3f5"  # contextual help mid
+  "#e6c896": "#cad3f5"  # contextual help bottom
