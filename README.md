@@ -17,6 +17,7 @@ C:\Users\<USER>\Documents\Voicemeeter\theme.yaml
 C:\Users\<USER>\Documents\Voicemeeter\themes\catppuccin_macchiato\colors.yaml
 C:\Users\<USER>\Documents\Voicemeeter\themes\catppuccin_macchiato\banana\bg.bmp
 C:\Users\<USER>\Documents\Voicemeeter\themes\catppuccin_macchiato\banana\bg_settings.bmp
+C:\Users\<USER>\Documents\Voicemeeter\themes\catppuccin_macchiato\banana\bg_cassette.bmp
 
 ```
 4. Launch Voicemeeter using [voicemeeter-themes-mod](https://github.com/emkaix/voicemeeter-themes-mod).
