@@ -8,7 +8,7 @@ Voicemeeter theme that uses the [Catppuccin Macchiato](https://github.com/catppu
 
 This theme is meant to be used with [voicemeeter-themes-mod](https://github.com/emkaix/voicemeeter-themes-mod).
 
-1. [Download the repository as ZIP file.](https://github.com/emkaix/voicemeeter-theme-catppuccin-macchiato/archive/refs/heads/main.zip)
+1. [Download the theme from the Release page.](https://github.com/emkaix/voicemeeter-theme-catppuccin-macchiato/releases)
 2. Extract `theme.yaml` and the `themes` folder into `C:\Users\<USER>\Documents\Voicemeeter\`
 3. You should now have:
 
