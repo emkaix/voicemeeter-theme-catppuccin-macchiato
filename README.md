@@ -24,7 +24,7 @@ C:\Users\<USER>\Documents\Voicemeeter\themes\catppuccin_macchiato\banana\bg_cass
 ```
 theme:
   banana: catppuccin_macchiato
-  potato: catppuccin_macchiato
+  potato: 
   default:
 
 (...)
